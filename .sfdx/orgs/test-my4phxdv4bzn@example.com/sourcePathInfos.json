@@ -32,29 +32,27 @@
     [
         "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1519054794691,
-            "changeTime": 1519054794691,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 256,
+            "modifiedTime": 1519056118466,
+            "changeTime": 1519056118466,
+            "contentHash": "b9339ff9538e43d4e1d7bae36ca34df924760ba1"
         }
     ],
     [
         "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1519050032951,
-            "changeTime": 1519050032951,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 128,
+            "modifiedTime": 1519056118464,
+            "changeTime": 1519056118464,
+            "contentHash": "f12ac00d1bf391e9ef80c5689b9dc1453e5a06d6"
         }
     ],
     [
@@ -88,27 +86,27 @@
     [
         "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8028,
             "modifiedTime": 1519055017517,
             "changeTime": 1519055017517,
-            "contentHash": "9a16b222ff089ab8ed2b023e78d6a3a880ae9983"
+            "contentHash": "9a16b222ff089ab8ed2b023e78d6a3a880ae9983",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8076,
             "modifiedTime": 1519055017525,
             "changeTime": 1519055017525,
-            "contentHash": "39e278d65f83a47390f3d7ff1d94c256b2959b3e"
+            "contentHash": "39e278d65f83a47390f3d7ff1d94c256b2959b3e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -252,6 +250,123 @@
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1519056118462,
+            "changeTime": 1519056118462,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocatorApp/AccountLocatorApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 66,
+            "modifiedTime": 1519056118463,
+            "changeTime": 1519056118463,
+            "contentHash": "bf6b96c01a6bf855c9edb2c3dbfa53e5e7b94d4e"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1519056118464,
+            "changeTime": 1519056118464,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 99,
+            "modifiedTime": 1519056118465,
+            "changeTime": 1519056118465,
+            "contentHash": "3e5ffe823b52d945a011f12c2b139e20b3d981c2"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1519056118465,
+            "changeTime": 1519056118465,
+            "contentHash": "31251dc7642d9e1d8394a6347e5134d936ad0d55"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1519056118466,
+            "changeTime": 1519056118466,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocatorApp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocatorApp",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519056118463,
+            "changeTime": 1519056118463,
+            "contentHash": "dc8cb7ed3d0b539213c3f83ddeb93f7b5d125117"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1519056118465,
+            "changeTime": 1519056118465,
+            "contentHash": "9c8aca56d8461dfbf4b9bac4bb4a006c2863ae81"
+        }
+    ],
+    [
+        "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/thedges/Google Drive/_DEVELOPMENT/SFDX/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519056118466,
+            "changeTime": 1519056118466,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
